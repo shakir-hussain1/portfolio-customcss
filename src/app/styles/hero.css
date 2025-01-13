@@ -1,7 +1,7 @@
 /* hero.css */
 .hero-container {
   min-height: 100vh;
-  background: no-repeat url("/PP.jpg");
+  background: no-repeat url("/pp.jpg");
   background-size: 35%;
   background-position: left 100px top 100px;
 }
